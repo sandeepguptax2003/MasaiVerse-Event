@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "SANDY BHAU",
+      "age": "23",
+      "place": "odisha",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 1
+    },
+    {
+      "name": "FRY POPA",
+      "age": "30",
+      "place": "mumbai",
+      "batch": "WEB-15",
+      "profession": "Backend",
+      "id": 6
+    },
+    {
+      "name": "JELLY KELLY",
+      "age": "24",
+      "place": "34",
+      "batch": "WEB-15",
+      "profession": "Backend",
+      "id": 7
+    }
+  ]
+}
